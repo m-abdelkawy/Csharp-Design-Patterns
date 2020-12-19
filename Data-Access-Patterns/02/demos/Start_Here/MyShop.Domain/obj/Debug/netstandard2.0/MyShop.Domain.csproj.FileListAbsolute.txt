@@ -1,0 +1,9 @@
+D:\00. Code Trials\Git\Csharp-Design-Patterns\Data-Access-Patterns\02\demos\Start_Here\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.deps.json
+D:\00. Code Trials\Git\Csharp-Design-Patterns\Data-Access-Patterns\02\demos\Start_Here\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.dll
+D:\00. Code Trials\Git\Csharp-Design-Patterns\Data-Access-Patterns\02\demos\Start_Here\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.pdb
+D:\00. Code Trials\Git\Csharp-Design-Patterns\Data-Access-Patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.csprojAssemblyReference.cache
+D:\00. Code Trials\Git\Csharp-Design-Patterns\Data-Access-Patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.AssemblyInfoInputs.cache
+D:\00. Code Trials\Git\Csharp-Design-Patterns\Data-Access-Patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.AssemblyInfo.cs
+D:\00. Code Trials\Git\Csharp-Design-Patterns\Data-Access-Patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.csproj.CoreCompileInputs.cache
+D:\00. Code Trials\Git\Csharp-Design-Patterns\Data-Access-Patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.dll
+D:\00. Code Trials\Git\Csharp-Design-Patterns\Data-Access-Patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.pdb
